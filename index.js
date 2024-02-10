@@ -41,7 +41,7 @@ const perguntas = [
       respostas: [
         "gomu gomu no mi",
         "Zou Zou no Mi",
-        "nika nika no mi modelo:nika"
+        "hito hito no mi modelo:nika"
       ],
       correta: 2 // A resposta correta é "nika nika no mi modelo:nika"
     },
